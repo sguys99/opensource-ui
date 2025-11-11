@@ -79,6 +79,7 @@ dependencies = [
     "tzlocal==5.3.1",
     "uuid7==0.1.0",
     "xgboost==1.7.6",
+    "chainlit>=2.9.0",
 ]
 
 [build-system]
